@@ -9,3 +9,16 @@ C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraA
 C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraAppp\obj\Debug\PrimeiraAppp.pdb
 C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraAppp\obj\Debug\PrimeiraAppp.frmPrimeiroPrograma.resources
 C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraAppp\obj\Debug\PrimeiraAppp.frmLogin.resources
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\bin\Debug\PrimeiraAppp.exe.config
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\bin\Debug\PrimeiraAppp.exe
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\bin\Debug\PrimeiraAppp.pdb
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.csproj.AssemblyReference.cache
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.frmLogin.resources
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.frmPrimeiroPrograma.resources
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.Properties.Resources.resources
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.csproj.GenerateResource.cache
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.csproj.CoreCompileInputs.cache
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.exe
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.pdb
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.frmComponentes.resources
+C:\Users\lucas.sleocadio\Documents\Visual Studio 2019\LoveSite\PrimeiraAppp\obj\Debug\PrimeiraAppp.frmCalcula.resources
